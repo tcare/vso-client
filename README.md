@@ -11,6 +11,7 @@ Features:
 * TFS version control, branches, changesets, shelvesets, and labels
 * Git repositories, commits, diffs, pushes, stats and refs
 * Service hook publishers, consumers, and subscriptions
+* Test
 
 ### Requirements
 
